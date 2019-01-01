@@ -1,0 +1,5 @@
+data/
+output/
+mask/output/
+**/*.npy
+**/*.hdf5
